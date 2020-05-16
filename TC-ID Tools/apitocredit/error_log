@@ -1,0 +1,9 @@
+[21-Feb-2015 09:10:51 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/rspd07/public_html/header.php on line 19
+[21-Feb-2015 09:10:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/header.php:19) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:10:51 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/rspd07/public_html/apitocredit/index.php on line 71
+[21-Feb-2015 09:11:14 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/rspd07/public_html/header.php on line 19
+[21-Feb-2015 09:11:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/header.php:19) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:11:14 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/rspd07/public_html/apitocredit/index.php on line 71
+[21-Feb-2015 09:11:24 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/rspd07/public_html/header.php on line 19
+[21-Feb-2015 09:11:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/header.php:19) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:11:24 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/rspd07/public_html/apitocredit/index.php on line 71

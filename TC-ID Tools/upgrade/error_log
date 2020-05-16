@@ -1,0 +1,20 @@
+[21-Feb-2015 04:21:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 06:20:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 06:26:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 06:27:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:25:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:25:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:25:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 46
+[21-Feb-2015 09:25:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:25:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[21-Feb-2015 09:27:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/rspd07/public_html/upgrade/index.php:2) in /home4/rspd07/public_html/header.php on line 38
+[16-Aug-2016 15:06:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[16-Aug-2016 15:07:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[16-Aug-2016 15:07:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[16-Aug-2016 15:07:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[16-Aug-2016 15:07:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[17-Aug-2016 02:05:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[17-Aug-2016 11:16:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[17-Aug-2016 11:18:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[17-Aug-2016 11:18:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47
+[17-Aug-2016 11:21:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/koe123/public_html/upgrade/cKfK.php on line 47

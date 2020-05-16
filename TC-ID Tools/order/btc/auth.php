@@ -1,0 +1,1 @@
+<?php $host = "localhost"; $user = "koe123_user"; $pass = "savegaza123"; $db = "koe123_admin"; $konek = mysql_connect($host, $user, $pass) or die ('MT Coeg ! '); mysql_select_db($db); ?>
